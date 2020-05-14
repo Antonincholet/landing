@@ -1,0 +1,32 @@
+.card-parent{
+  display: flex;
+  align-items:flex-end;
+  justify-content: space-evenly;
+  margin:40px;
+}
+.card-child{
+  width:200px;
+  overflow: hidden;
+  background-color:white;
+  box-shadow: 0 0 5px rgba(200,200,200,1);
+  padding: 20px 15px;
+  border-radius: 5px;
+  margin: 20px 10px;
+  height:230px;
+  text-align:center;
+}
+.card-child > img{
+  width:100px;
+  height:100px;
+  object-fit: cover;
+}
+.card-child > h1{
+  font-weight: lighter;
+  font-size: 24px;
+  color: rgb(30,30,30);
+}
+.card-child > p{
+  font-weight: lighter;
+  font-size: 16px;
+  color:rgba(50,50,50,0.5);
+}

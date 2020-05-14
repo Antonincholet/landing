@@ -1,0 +1,13 @@
+.footer{
+  background-color:rgb(34,33,33);
+  color:rgb(75, 228, 188);
+  height:150px;
+  padding:40px 0px;
+}
+.footer p{
+  color:rgb(100,100,100);
+}
+.footer a{
+  color:rgb(75, 228, 188);
+  font-size:34px;
+}

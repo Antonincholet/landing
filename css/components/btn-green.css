@@ -1,0 +1,22 @@
+.btn-green{
+  background-color:rgb(75, 228, 188);
+  border:1px solid rgb(75, 228, 188);
+  border-radius:20px;
+  color:white;
+  font-weight: lighter;
+  text-decoration: none;
+  padding:10px 20px;
+  margin: 10px 0px 0px 10px;
+  display:inline-block;
+}
+.btn-green:hover{
+  background-color: white;
+  border:2px solid rgb(75, 228, 188);
+  border-radius:20px;
+  color:rgb(75, 228, 188);
+  font-weight: lighter;
+  text-decoration: none;
+  padding:10px 20px;
+  margin: 10px 0px 0px 10px;
+  display:inline-block;
+}
